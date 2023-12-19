@@ -1,0 +1,6 @@
+---
+**Christian Erlinger** hat Raumplanung und Politikwissenschaft studiert und ist seit 2013 im  Bibliotheksbereich tätig. Aktuell ist er Mitarbeiter an der ZHB Luzern (CH) und betreut ZentralGut.ch das digitale Kulturgutportal der Zentralschweiz. Er ist Wikidata-Enthusiast (#DieDatenlaube) und setzt sich für das verstärkte Zusammenspiel von GLAM-Institutionen und dem Wikiversum ein. 
+**ORCID**: 0000-0001-7872-9617 | **Mastodon**: librerli@openbiblio.social 
+
+**Jens Bemme** studierte Verkehrswirtschaft und Lateinamerikastudien. Heute interessiert er sich für Dorfbacköfen und historisches Radfahrerwissen um 1900 in der Oberlausitz und der Ostseeprovinzen. Mit der 'Datenlaube' und Christian Erlinger erschließt er Wikisource-Volltexte der Illustrierten 'Die Gartenlaube' offen in Wikidata. Als Mitarbeiter der SLUB Dresden begleitet Jens landeskundliche Citizen Science-Initiativen insbesondere mit den digitalen Werkzeugen und Gemeinschaften der Wikimedia-Bewegung. 
+**ORCID**: 0000-0001-6860-0924 | **Mastodon**: JensB@openbiblio.social
