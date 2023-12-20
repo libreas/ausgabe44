@@ -346,7 +346,7 @@ OA 2002. *Budapest Open Access Initiative (German Translation)*.
 <https://www.budapestopenaccessinitiative.org/read/german-translation/>
 \[Stand 2023-10-28\].
 
-OA 2018. *Open a Glam Lab*. https://glamlabs.pubpub.org/ \[Stand
+OA 2018. *Open a Glam Lab*. <https://glamlabs.pubpub.org/> \[Stand
 2020-08-27\].
 
 [^1]: Programm der Open-Access-Tage 2023
