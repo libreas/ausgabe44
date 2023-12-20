@@ -232,7 +232,7 @@ nicht nur die Frage auf, wie erfolgreich die Grenzbüchereiarbeit an sich
 war, sondern auch, was diese Kontinuitäten für das heutige
 Bibliothekswesen bedeuten -- oder nicht bedeuten.
 
-## 2. Grundkonzepte
+### 2. Grundkonzepte
 
 Zur Kontextualisierung der Grenzbüchereiarbeit ist es notwendig, im
 Vorfeld zwei Themenkomplexe, nämlich völkisches Denken und
