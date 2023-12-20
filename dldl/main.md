@@ -390,7 +390,7 @@ die in einer Reihe von Technologien steht, die immer in Konkurrenz mit
 älteren und bald auch neueren stehen wird, ohne sich für alle
 potentiellen Anwendungsfälle zu etablieren. (ks)
 
-## 2.3 Covid-19 und die Bibliotheken
+#### 2.3 Covid-19 und die Bibliotheken
 
 Clarke, Rachel Ivy ; Grimm, Alexandra ; Zhang, Bo ; Stanton, Katerina
 Lynn (2023). *Time, Tasks, and Toll: Changes in Library Work During the
